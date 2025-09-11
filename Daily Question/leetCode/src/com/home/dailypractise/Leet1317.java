@@ -1,4 +1,4 @@
-package com.home.dailyPractise;
+package com.home.dailypractise;
 
 public class Leet1317 {
 

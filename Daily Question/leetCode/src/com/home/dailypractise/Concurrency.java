@@ -1,4 +1,4 @@
-package com.home.dailyPractise;
+package com.home.dailypractise;
 
 import java.util.concurrent.CompletableFuture;
 
